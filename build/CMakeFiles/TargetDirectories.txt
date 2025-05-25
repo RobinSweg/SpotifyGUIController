@@ -1,0 +1,3 @@
+/home/rohan/Documents/SpotifyGUI/build/CMakeFiles/SpotifyGUI.dir
+/home/rohan/Documents/SpotifyGUI/build/CMakeFiles/edit_cache.dir
+/home/rohan/Documents/SpotifyGUI/build/CMakeFiles/rebuild_cache.dir

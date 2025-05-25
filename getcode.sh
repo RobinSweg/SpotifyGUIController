@@ -1,0 +1,1 @@
+firefox --new-tab https://accounts.spotify.com/authorize?client_id=a259c8c3b9ac42a697ff42bc4e5d9584\&response_type=code\&redirect_uri=http%3A%2F%2F127.0.0.1%3A8000%2Fcallback\&scope=user-read-playback-state%20user-read-currently-playing%20user-top-read%20user-modify-playback-state
