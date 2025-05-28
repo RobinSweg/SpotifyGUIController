@@ -109,6 +109,7 @@ SpotifyGUI: CMakeFiles/SpotifyGUI.dir/main.cpp.o
 SpotifyGUI: CMakeFiles/SpotifyGUI.dir/spotify_api.cpp.o
 SpotifyGUI: CMakeFiles/SpotifyGUI.dir/build.make
 SpotifyGUI: /usr/lib/x86_64-linux-gnu/libcurl.so
+SpotifyGUI: /usr/lib/x86_64-linux-gnu/libGLESv2.so
 SpotifyGUI: CMakeFiles/SpotifyGUI.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/rohan/Documents/SpotifyGUI/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable SpotifyGUI"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/SpotifyGUI.dir/link.txt --verbose=$(VERBOSE)
