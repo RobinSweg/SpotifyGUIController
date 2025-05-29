@@ -3,7 +3,7 @@ project(SpotifyGUI)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(SpotifyGUI main.cpp spotify_api.cpp)
+add_executable(SpotifyGUI main.cpp spotify_api.cpp shader_utils.cpp)
 
 # CURL
 find_package(CURL REQUIRED)

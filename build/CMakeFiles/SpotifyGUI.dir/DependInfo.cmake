@@ -9,6 +9,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/rohan/Documents/SpotifyGUI/main.cpp" "CMakeFiles/SpotifyGUI.dir/main.cpp.o" "gcc" "CMakeFiles/SpotifyGUI.dir/main.cpp.o.d"
+  "/home/rohan/Documents/SpotifyGUI/shader_utils.cpp" "CMakeFiles/SpotifyGUI.dir/shader_utils.cpp.o" "gcc" "CMakeFiles/SpotifyGUI.dir/shader_utils.cpp.o.d"
   "/home/rohan/Documents/SpotifyGUI/spotify_api.cpp" "CMakeFiles/SpotifyGUI.dir/spotify_api.cpp.o" "gcc" "CMakeFiles/SpotifyGUI.dir/spotify_api.cpp.o.d"
   )
 

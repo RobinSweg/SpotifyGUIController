@@ -153,6 +153,30 @@ main.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/SpotifyGUI.dir/build.make CMakeFiles/SpotifyGUI.dir/main.cpp.s
 .PHONY : main.cpp.s
 
+shader_utils.o: shader_utils.cpp.o
+.PHONY : shader_utils.o
+
+# target to build an object file
+shader_utils.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SpotifyGUI.dir/build.make CMakeFiles/SpotifyGUI.dir/shader_utils.cpp.o
+.PHONY : shader_utils.cpp.o
+
+shader_utils.i: shader_utils.cpp.i
+.PHONY : shader_utils.i
+
+# target to preprocess a source file
+shader_utils.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SpotifyGUI.dir/build.make CMakeFiles/SpotifyGUI.dir/shader_utils.cpp.i
+.PHONY : shader_utils.cpp.i
+
+shader_utils.s: shader_utils.cpp.s
+.PHONY : shader_utils.s
+
+# target to generate assembly for a file
+shader_utils.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/SpotifyGUI.dir/build.make CMakeFiles/SpotifyGUI.dir/shader_utils.cpp.s
+.PHONY : shader_utils.cpp.s
+
 spotify_api.o: spotify_api.cpp.o
 .PHONY : spotify_api.o
 
@@ -189,6 +213,9 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
+	@echo "... shader_utils.o"
+	@echo "... shader_utils.i"
+	@echo "... shader_utils.s"
 	@echo "... spotify_api.o"
 	@echo "... spotify_api.i"
 	@echo "... spotify_api.s"

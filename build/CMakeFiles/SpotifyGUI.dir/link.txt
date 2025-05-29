@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/SpotifyGUI.dir/main.cpp.o CMakeFiles/SpotifyGUI.dir/spotify_api.cpp.o -o SpotifyGUI  /usr/lib/x86_64-linux-gnu/libcurl.so -L/usr/lib/x86_64-linux-gnu  -lSDL2 /usr/lib/x86_64-linux-gnu/libGLESv2.so 
+/usr/bin/c++ CMakeFiles/SpotifyGUI.dir/main.cpp.o CMakeFiles/SpotifyGUI.dir/spotify_api.cpp.o CMakeFiles/SpotifyGUI.dir/shader_utils.cpp.o -o SpotifyGUI  /usr/lib/x86_64-linux-gnu/libcurl.so -L/usr/lib/x86_64-linux-gnu  -lSDL2 /usr/lib/x86_64-linux-gnu/libGLESv2.so 
